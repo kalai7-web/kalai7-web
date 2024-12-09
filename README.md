@@ -3,9 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalai7-web&label=Profile%20views&color=0e75b6&style=flat" alt="kalai7-web" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kalai7-web.github.io/kalai_portfolio.github/](https://kalai7-web.github.io/kalai_portfolio.github/)
+🎓 **Education**  
+- Aspiring Computer Science major with a focus on **Data Engineering**  
 
-- 📫 How to reach me **kalaitharan@graduate.utm.my**
+📊 **Current Projects**  
+- Conducting a survey on improving and analyzing satisfaction aspects of the university's E-Learning hub  
+- Exploring applications in **Data Science** and **Machine Learning**
+
+🌱 **Interests**  
+- Passionate about **Artificial Intelligence**, **Data Engineering**, and **E-Learning solutions**  
+- Enthusiastic about applying technology to solve real-world problems
+
+💡 **Skills**   
+- Data Analysis & Visualization  
+- Academic Writing & Literature Reviews  
+
+⚡ **Fun Facts**  
+- I'm transitioning from a background in biology research to a tech-focused career  
+- I love exploring new technologies and innovative applications  
+
+📫 **How to Reach Me**  
+- **Email**: kalaitharan@graduate.utm.my  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
