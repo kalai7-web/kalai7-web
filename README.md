@@ -37,3 +37,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalai7-web&show_icons=true&locale=en&layout=compact" alt="kalai7-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalai7-web&" alt="kalai7-web" /></p>
+
+# 💫 About Me:
+Academic Sources<br>Technology and Information System >:<br>Programming Technique 1 >:<br>Discrete Structure >: 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
