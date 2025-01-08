@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalai7-web&" alt="kalai7-web" /></p>
 
-# 💫 About Me:
-Academic Sources<br>Technology and Information System >:[TIS](https://github.com/kalai7-web/tis) <br>Programming Technique 1 >:[PT 1](https://github.com/kalai7-web/pt1)<br>Discrete Structure >: [DS](https://github.com/kalai7-web/ds)
+# Academic Sources
+<br>Technology and Information System >:[TIS](https://github.com/kalai7-web/tis) <br>Programming Technique 1 >:[PT 1](https://github.com/kalai7-web/pt1)<br>Discrete Structure >: [DS](https://github.com/kalai7-web/ds)
 
 
