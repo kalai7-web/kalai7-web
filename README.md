@@ -41,4 +41,5 @@
 # Academic Sources
 <br>Technology and Information System >:[TIS](https://github.com/kalai7-web/tis) <br>Programming Technique 1 >:[PT 1](https://github.com/kalai7-web/pt1)<br>Discrete Structure >: [DS](https://github.com/kalai7-web/ds)<br>Digital Logic >:[DL](https://github.com/kalai7-web/DL)
 
+<img src="https://raw.githubusercontent.com/kalai7-web/kalai7-web/output/snake.svg" alt="Snake animation" />
 
