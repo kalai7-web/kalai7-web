@@ -22,7 +22,10 @@
 
 ⚡ **Fun Facts**  
 - I'm transitioning from a background in biology research to a tech-focused career  
-- I love exploring new technologies and innovative applications  
+- I love exploring new technologies and innovative applications
+
+  ### "Explore my journey and projects in my e-portfolio—your window into my world of creativity and growth."
+  [Kalai's E-Portfolio]( 
 
 📫 **How to Reach Me**  
 - **Email**: kalaitharan@graduate.utm.my  
