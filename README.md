@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalai7-web&label=Profile%20views&color=0e75b6&style=flat" alt="kalai7-web" /> </p>
 
+  ### "Explore my journey and projects in my e-portfolio—your window into my world of creativity and growth."
+  [Kalai's E-Portfolio](https://kalai7-web.github.io/kalai.github.io/)
+  
 🎓 **Education**  
 - Aspiring Computer Science major with a focus on **Data Engineering**  
 
@@ -23,9 +26,6 @@
 ⚡ **Fun Facts**  
 - I'm transitioning from a background in biology research to a tech-focused career  
 - I love exploring new technologies and innovative applications
-
-  ### "Explore my journey and projects in my e-portfolio—your window into my world of creativity and growth."
-  [Kalai's E-Portfolio]( 
 
 📫 **How to Reach Me**  
 - **Email**: kalaitharan@graduate.utm.my  
