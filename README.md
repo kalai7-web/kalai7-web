@@ -9,8 +9,19 @@
   [Kalai's E-Portfolio](https://kalai7-web.github.io/kalai.github.io/)
   
 🎓 **Education**  
-- Aspiring Computer Science major with a focus on **Data Engineering**  
 
+- 🏫 **Sekolah Menengah Kebangsaan (SMK) Tengku Idris Shah Kapar**  
+  *Sijil Pelajaran Malaysia (SPM)* — Graduated: 8A's - 2023
+
+- 🏢 **Kolej Matrikulasi Kedah (KMK)**  
+  *Matriculation in Physical Science Stream* — 2023/24*  
+  Focused on Mathematics, Computer Science, and Chemistry fundamentals.
+
+- 💻 **Universiti Teknologi Malaysia (UTM)**  
+  *Bachelor of Computer Science (Data Engineering) with Honours*  
+  *2023 – Present*  
+  Currently a 2nd-year student focusing on programming, database systems, and software design.
+  
 📊 **Current Projects**  
 - Conducting a survey on improving and analyzing satisfaction aspects of the university's E-Learning hub  
 - Exploring applications in **Data Science** and **Machine Learning**
